@@ -1,4 +1,0 @@
-[mergetool "unityyamlmerge"]
-    trustExitCode = false
-    keepBackup = false
-    cmd = 'caminho para o uniyyamlmerge' merge -p \"$BASE\" \"$REMOTE\" \"$LOCAL\" \"$MERGED\"
